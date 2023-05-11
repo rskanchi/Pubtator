@@ -18,15 +18,15 @@ pubtator.R and phantomjs executable file
 
 ```
 source("pubtator.R")
-getPubtatorFrequencies(datafile = "example/example_input_file.csv", fileId = "example")
+getPubtatorFrequencies(datafile = "example_input_file.csv", fileId = "example")
 ```
-The input file is a .csv file with two columns of search terms as shown in example_input_file.csv (example folder).
+The input file is a .csv file with two columns of search terms as shown in example_input_file.csv.
 
 ## **```Output```**
 
 Output is an xlsx file with two worksheets:
 
   - **frequency**: sheet containing the frequency table (no of publication hits for pairs of search terms) sorted by row & col sums
-  - **long_format**: frequencies in long format
+  - **long_form**: frequencies in long format
 
 Checkout the example output file pubtator_output_example_date.xlsx.
