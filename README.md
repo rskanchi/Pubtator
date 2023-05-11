@@ -1,4 +1,4 @@
-# pubtatoR
+# Pubtator
 
 R script for generating publication-hit frequency tables based on [Pubtator search](https://www.ncbi.nlm.nih.gov/research/pubtator/) using input search strings/terms. 
 
