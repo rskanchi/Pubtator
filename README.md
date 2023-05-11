@@ -29,4 +29,4 @@ Output is an xlsx file with two worksheets:
   - **frequency**: sheet containing the frequency table (no of publication hits for pairs of search terms) sorted by row & col sums
   - **long_form**: frequencies in long format
 
-Checkout the example output file pubtator_output_example_date.xlsx.
+Checkout the example output file pubtator_output_example_{date}.xlsx.

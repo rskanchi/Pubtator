@@ -1,5 +1,3 @@
-#str1_terms <- c("IGFBP7", "FRZB")
-#str2_terms <- c("Cholestasis", "Cirrhosis", "Varices")
 
 loadRequiredPackages <- function(required.packages){
   # what packages are not installed? 
